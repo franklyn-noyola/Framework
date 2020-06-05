@@ -1,0 +1,3 @@
+package procesosITATAHost.ConfiguracionSistema.ConfiguracionPeaje.Motivos;
+
+public enum OpcionesCrearModificarMotivosCampo {Motivo,Descripcion};
