@@ -1,0 +1,3 @@
+package procesosITATAHost.ConfiguracionSistema.Operadores.GestionGruposOperadores;
+
+public enum OpcionesCrearModificarGrupoOperadoresCampo {Descripcion};
