@@ -1,0 +1,3 @@
+package procesosITATAHost.ConfiguracionSistema.TarifasMoneda.MonedaAceptada;
+
+public enum OpcionesCrearMonedaAceptadaCampo {Denominacion};

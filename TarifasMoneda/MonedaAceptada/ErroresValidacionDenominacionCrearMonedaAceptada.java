@@ -1,0 +1,5 @@
+package procesosITATAHost.ConfiguracionSistema.TarifasMoneda.MonedaAceptada;
+
+public enum ErroresValidacionDenominacionCrearMonedaAceptada 
+
+{Cualquiera,Requerido,Formato};
