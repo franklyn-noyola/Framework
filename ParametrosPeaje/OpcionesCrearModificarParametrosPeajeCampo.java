@@ -1,0 +1,3 @@
+package procesosITATAHost.ConfiguracionSistema.ConfiguracionPeaje.ParametrosPeaje;
+
+public enum OpcionesCrearModificarParametrosPeajeCampo {Parametro,Valor};
